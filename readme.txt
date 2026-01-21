@@ -90,3 +90,4 @@ git config --global --add safe.directory E:/metallographic_analyzer_v3.0
 右键点击 Windows 终端 / CMD/Git Bash；
 选择 “以管理员身份运行”；
 重新切换到 E:\metallographic_analyzer_v3.0 目录，再执行 git add .。
+至此基本掌握git用法
